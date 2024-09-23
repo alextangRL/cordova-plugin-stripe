@@ -41,7 +41,7 @@
   "homepage": "https://github.com/ihadeed/cordova-plugin-stripe#readme",
   "typings": "./typings/CordovaStripe.d.ts",
   "dependencies": {
-    "@types/cordova": "~0.0.34"
+    "@types/cordova": "~11.0.3"
   },
   "devDependencies": {
     "dmd-plugin-cordova-plugin": "^0.1.4",
